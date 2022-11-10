@@ -1,0 +1,4 @@
+Tabla dimensión DTIEMPO;;;;;
+DTiem_id;Fecha;Dia_semana_desc;Mes_desc;Trim_desc;Año
+1;10/09/2021;viernes;septiembre;3;yyyy
+2;5/11/2021;viernes;noviembre;4;yyyy

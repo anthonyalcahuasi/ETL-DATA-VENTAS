@@ -1,0 +1,16 @@
+Tabla dimensión DPRODUCTO;;;;;;
+DProd_id;Cod_prod;Nom_prod;Prec_compra;Prec_venta;Nom_cat (Forma_Farm);Nom_fam (Forma_Farm_Simplif)
+1;3;Cusqueña;6;12;Cervezas de fermentación baja o lagers;Cerveza
+2;5;Pilsen Callao;6;12;Cervezas de fermentación baja o lagers;Cerveza
+3;6;Golden;3;6;Cervezas de fermentación baja o lagers;Cerveza
+4;8;Corona;5;12;Cervezas de fermentación baja o lagers;Cerveza
+5;10;Grolsch;5;10;Cervezas de fermentación baja o lagers;Cerveza
+6;12;Smirnoff;26;37;Vodka;Trago
+7;14;Russkaya;17;26;Vodka;Trago
+8;16;Absolut;50;67;Vodka;Trago
+9;18;Danzka;47;65;Vodka;Trago
+10;20;Skyy;45;60;Vodka;Trago
+11;22;Zenith;11;17;Cervezas de fermentación alta;Cerveza
+12;24;Magdalena;11;17;Cervezas de fermentación alta;Cerveza
+13;26;Don Juan Porter;11;17;Cervezas de fermentación alta;Cerveza
+14;28;Chasky Porter;11;17;Cervezas de fermentación alta;Cerveza

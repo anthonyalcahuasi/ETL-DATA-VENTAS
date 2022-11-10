@@ -1,0 +1,8 @@
+Tabla hecho HVENTA;;;;;;;;;;;;;Vista hecho VENTA (sólo cálculo de las medidas, sin las dimensiones);;;;;;;
+DTiempo_id (se toma de conf);DProducto_id;DCliente_id;DVendedor_id;Ventas;Can_unidades;Costos;Descuentos;Can_min_confirmacion;Can_min_despacho;Can_horas_entrega;Can_clientes;;Ventas;Can_unidades;Costos;Descuentos;Can_min_confirmacion;Can_min_despacho;Can_horas_entrega;Can_clientes
+1;1;1;11;1120;80;640;80;60;60;22;1;;5950;410;3130;170;170;180;40.33;2
+1;2;1;11;870;60;420;30;60;60;22;1;;;;;;;;;
+1;3;1;11;1280;80;720;0;60;60;22;1;;;;;;;;;
+1;2;2;22;840;60;420;60;110;120;18.83;1;;;;;;;;;
+1;3;2;22;800;50;450;0;110;120;18.83;1;;;;;;;;;
+1;4;2;22;1040;80;480;0;110;120;18.83;1;;;;;;;;;
